@@ -1,6 +1,4 @@
 /*
-sets.cpp
-
 This program allows a user to input multiple set functions
 using the keyboard or a file. Up to 10 sets may be active at once.
 
