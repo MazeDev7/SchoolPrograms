@@ -1,6 +1,4 @@
 /*
-306 Program 3
-
 This program will generate Dist1, Dist2, Dist3, Path1, Path2, Path3
 using the Floyd-Warshall Algorithm.
 
