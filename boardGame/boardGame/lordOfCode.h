@@ -1,9 +1,4 @@
 /*
-Ali H. Mazeh
-
-lordOfTheCode.hpp
-program 3
-
 This program is a dungeons and dragons style game.
 You get a variety of characters: Demon, Dragon, Warrior,
 Healer, and cleric. Characters can be either good, evil,
