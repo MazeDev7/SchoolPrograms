@@ -20,7 +20,7 @@ This cycle will continue until every patient has visited all of
 their doctors offices. Once the lists are empty, the loop is broken
 and the total incremented time is printed to the screen.
 
-# boardGame
+# Board Game
 
 This program is a dungeons and dragons style game.
 You get a variety of characters: Demon, Dragon, Warrior,
@@ -36,20 +36,21 @@ each character is displayed for you.
 
 
 
-# SetOperations
+# Set Operations
 
 A program built to handle set theory operations implemented with linked lists.
 This program allows a user to input multiple set functions
 using the keyboard or a file. Up to 10 sets may be active at once.
 
-# SparseMatrices
+# Sparse Matrices
 
 This program creates a dynamic array of linked list to hold the
 non-zero elements of a matrix. This program provides operations
 such as: Addition, subtraction, multiplication, and transposing of
 sparse matrices.
 
-# TournamentTree
+# Tournament Tree
+
 This program takes a number of packages and sorts them
 into bins based in first fit order. If there is no room
 in the first bin, it will move to the next available bin
@@ -63,5 +64,21 @@ a linear function of O(n), to an logarithmic function of O(lg(n)).
 Lastly, the capacity of the bins will be printed to the screen.
 The user will have the option of running multiple cases.
 
+# Floyd-Warshall Algorithm
+
+This program will generate Dist1, Dist2, Dist3, Path1, Path2, Path3
+using the Floyd-Warshall Algorithm.
+
+# Lexical Analyzer
+
+This program mimics a lexical analyzer. It will accept reading in
+through text file. It will analyze every string in the code
+and determine if it is a keyword, identifier, or number. The program
+will self generate these unique tables then generate a token table txt file
+based on the program it is reading in.
+
+# Non-rrecursive Parser
+
+This program simulates a compiler based non-recursive predictive parser.
 
 # Copyright  Ali Mazeh (c) 2016. All rights reserved.
