@@ -1,5 +1,4 @@
-/*  No Ex-Queues
-
+/* 
 This program computes the time it takes for a medical clinic
 to do checkups on a village of patients. The total number of
 doctors offices available to be visited for the day will be
