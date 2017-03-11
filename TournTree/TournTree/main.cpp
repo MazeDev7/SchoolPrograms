@@ -1,5 +1,4 @@
-/* MinBin
-
+/*
 This program takes a number of packages and sorts them
 into bins based in first fit order. If there is no room
 in the first bin, it will move to the next available bin
