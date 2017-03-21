@@ -77,7 +77,7 @@ and determine if it is a keyword, identifier, or number. The program
 will self generate these unique tables then generate a token table txt file
 based on the program it is reading in.
 
-# Non-rrecursive Parser
+# Non-recursive Parser
 
 This program simulates a compiler based non-recursive predictive parser.
 
